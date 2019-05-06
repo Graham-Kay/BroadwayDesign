@@ -47,6 +47,8 @@ h1 {
   font-weight: bold;
   color: white;
   text-align: center;
+  background-position: left;
+  background-size: cover;
 }
 .details {
   font-family: Helvetica;
@@ -60,4 +62,10 @@ h1 {
   font-family: Helvetica;
   font-size: 14px;
   font-weight: normal;
+}
+.copyright {
+  font-family: Helvetica;
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
 }
