@@ -1,0 +1,63 @@
+.header {
+  text-align: center;
+  font-family: Helvetica;
+  background-image: url('../the-flatiron-building.png');
+  background-position: left;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+#home,
+#process,
+#work,
+#team,
+#contact {
+  font-size: 18px;
+  color: white;
+  text-decoration: underline;
+}
+
+.our-process {
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+}
+.three-pillars {
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 23px;
+  font-weight: bold;
+}
+#identify,
+#understand,
+#execute {
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: normal;
+}
+.final-heading {
+  background-image: url("../the-flatiron-building.png");
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+.details {
+  font-family: Helvetica;
+  text-align: center;
+  font-weight: bold;
+  font-size: 23px;
+}
+#portfolio,
+#hiring,
+#details {
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: normal;
+}
